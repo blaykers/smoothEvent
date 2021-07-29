@@ -11,4 +11,4 @@ Hoping to fill your venue? Advertise your space to have optimal visibility to ev
 
 Hoping to book a gig, or plan a tour for your show? Plan your tour stops easily in advance, and get paid via the site to guarantee contractual integrity. 
 
-SmoothEvent is your middleman for venues and hosts.
+SmoothEvent is your connection between venues and hosts.
